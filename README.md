@@ -2,5 +2,5 @@
 Roblox Not A Virus Script Hub Thing
 ## BrookHaven
 ```lua
-loadstring
+loadstring(game:GetHttp("https://raw.githubusercontent.com/Kosmos-Studios/Not-A-Virus/main/Games/BrookHaven.lua"))()
 ```
