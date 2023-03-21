@@ -7,6 +7,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Kosmos-Studios/Not-A-
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Kosmos-Studios/Not-A-Virus/main/Games/BrookHaven.lua"))()
 ```
+![](https://user-images.githubusercontent.com/108237499/226741421-776e2e80-279f-4c4b-ae35-73639f72aac5.png)
 ## Doors But Bad
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Kosmos-Studios/Not-A-Virus/main/Games/DoorsButBad.lua"))()
