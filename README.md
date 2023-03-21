@@ -11,3 +11,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Kosmos-Studios/Not-A-
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Kosmos-Studios/Not-A-Virus/main/Games/DoorsButBad.lua"))()
 ```
+**SOME PARTS OF THE BROOKHAVEN SCRIPT ARE BROKEN, I AM CURRENTLY WORKING ON FIXING THEM**
